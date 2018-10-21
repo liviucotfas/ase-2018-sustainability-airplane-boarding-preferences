@@ -1,1 +1,1 @@
-# ase-2018-sustainability-airplane-boarding-preferences
+Please feel free to contact us at liviu.cotfas at ase .ro for the NetLogo source code.
